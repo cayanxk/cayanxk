@@ -10,3 +10,9 @@ I am a developer of backend stuffs from Turkey.
   <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" width="30px" />
   <img src="https://gb-j.com/wp-content/uploads/2018/09/logo-glyph.png" alt="Postman" width="30px" />
 </p>
+
+<style>
+  p.img {
+    padding-left: 10px;
+  }
+</style>
